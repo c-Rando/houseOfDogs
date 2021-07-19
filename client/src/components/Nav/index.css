@@ -1,0 +1,16 @@
+.hod-icon {
+    margin-right: 10px;
+}
+
+.nav {
+    width: 79%;
+}
+
+.menu-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logged-user {
+    text-decoration: underline;
+}
